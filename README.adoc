@@ -1,0 +1,3 @@
+= logjdbc-springboot-autoconfig
+
+logjdbc를 쉽게 설정할 수 있도록 도와줍니다.
